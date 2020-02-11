@@ -114,11 +114,11 @@ author:
   email            : "ksh981214@korea.ac.kr"
   links:
     - label: "Email"
-       icon: "fas fa-fw fa-envelope-square"
-        url: mailto:ksh981214@korea.ac.kr
+      icon: "fas fa-fw fa-envelope-square"
+      url: mailto:ksh981214@korea.ac.kr
     - label: "CV"
-       icon: "fas fa-fw fa-link"
-        url: "https://ksh981214.github.io/SH_resume/"
+      icon: "fas fa-fw fa-link"
+      url: "https://ksh981214.github.io/SH_resume/"
     #- label: "Twitter"
     #  icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
@@ -126,11 +126,11 @@ author:
     #  icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
     - label: "GitHub"
-       icon: "fab fa-fw fa-github"
-        url: "https://github.com/ksh981214"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/ksh981214"
     - label: "Instagram"
-       icon: "fab fa-fw fa-instagram"
-        url: "https://www.instagram.com/ksh981214/"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://www.instagram.com/ksh981214/"
 
 # Site Footer
 footer:
