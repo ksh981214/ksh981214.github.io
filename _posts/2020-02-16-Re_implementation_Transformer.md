@@ -15,5 +15,3 @@ tags:
     - [Attention is All You Need](https://arxiv.org/abs/1706.03762)
     - [Data](http://www.statmt.org/europarl/v7/fr-en.tgz)
         - English - French
-        
-- GCN

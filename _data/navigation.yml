@@ -10,6 +10,8 @@ main:
 #    url: /about/
   - title: "Category"
     url: /categories/
+  - title: "Tag"
+    url: /tags/
 #  - title: "Others"
 #    url: /others/
   # - title: "About"
