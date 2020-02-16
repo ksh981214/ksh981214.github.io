@@ -4,6 +4,8 @@ main:
 #    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   - title: "Home"
     url: https://ksh981214.github.io/
+  - title: "CV"
+    url: /SH_resume/
   - title: "About"
     url: /about/
   - title: "Study"

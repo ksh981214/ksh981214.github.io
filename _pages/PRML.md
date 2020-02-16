@@ -1,6 +1,6 @@
 ---
 title: "PRML"
-permalink: /categories/PRML/
+permalink: /study/PRML/
 layout: category
 author_profile: true
 taxonomy: PRML
