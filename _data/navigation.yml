@@ -6,12 +6,12 @@ main:
     url: https://ksh981214.github.io/
   - title: "CV"
     url: /SH_resume/
-  - title: "About"
-    url: /about/
-  - title: "Study"
-    url: /study/
-  - title: "Others"
-    url: /others/
+#  - title: "About"
+#    url: /about/
+  - title: "Category"
+    url: /categories/
+#  - title: "Others"
+#    url: /others/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
